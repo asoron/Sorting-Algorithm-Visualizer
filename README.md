@@ -15,4 +15,4 @@ Sorting Algorithm Visualizer is a Python application designed to visually demons
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sorting-algorithm-visualizer.git
+   git clone https://github.com/asoron/sorting-algorithm-visualizer.git
